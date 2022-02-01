@@ -22,3 +22,5 @@
 - AANAYA Nouhaila
 - BOUANOU Soumaya
 - CHAH Asmae
+
+voici la video qui démonstre la réalisation du projet : https://youtu.be/mpde5vRDaHY
